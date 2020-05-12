@@ -714,7 +714,6 @@ www.eudict.com
 www.evisitor.hr
 rating.gemius.com
 geoportal.dgu.hr
-mail.google.com
 www.gohome.hr
 translate.google.hr
 hjp.znanje.hr
